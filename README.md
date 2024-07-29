@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Ouisal-ben-zahi
+# 👋 Hi, I’m Ouisal-ben-zahi
 
 - 👀 I’m interested in web development and creating interactive web applications.
 - 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.js.
